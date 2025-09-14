@@ -54,7 +54,7 @@ Got a resource or tip? Drop it my way!
 
 ## 📊 GitHub Stats
 
-![Jaylie3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaylie3&show_icons=true&theme=default)
+![Jaylie3's GitHub stats](https://camo.githubusercontent.com/6e5d96fa7c60d75a500573feb7ed5ba6bea6e1fb7775460d2fb80fa0df6eade8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a61796c6965332673686f775f69636f6e733d74727565267468656d653d64656661756c74)
 
 ---
 
