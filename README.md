@@ -20,7 +20,7 @@
 
 - **Username:** Jaylie3
 - **What excites me:** Building cool things, collaborating with others, and making the web a little better every day
-- **Tech Stack:** HTML, CSS, Python, JavaScript, React, Node.js, Docker, GitHub Actions—and always expanding!
+- **Tech Stack:** HTML, CSS, JavaScript, Vue/Nuxt or React + Tailwind, Node, Supabase, and serverless functions
 
 ---
 ## 📂 Featured Repositories
