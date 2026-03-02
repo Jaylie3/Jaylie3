@@ -115,9 +115,7 @@ Got a resource or tip? Drop it my way!
 
 <!--START_SECTION:waka-->
 
-![WakaTime](https://wakatime.com/badge/user/018c9b9a-0c6b-4c3a-9c5e-5e8f6d7a8b9c.svg)
-
-**📊 Weekly Coding Time**
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaylie3&layout=compact&theme=default&hide_border=true)
 
 <!--END_SECTION:waka-->
 
