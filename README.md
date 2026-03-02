@@ -78,6 +78,10 @@ Got a resource or tip? Drop it my way!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jaylie3&color=blue&style=flat-square)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaylie3&theme=default)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jaylie3&theme=flat&no-frame=true)
+
 ---
 
 ## 💡 Get Involved
