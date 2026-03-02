@@ -34,6 +34,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 📊 Skills
+
+### Frontend
+- **Vue.js/Nuxt** - ████████████ 90%
+- **React** - ██████████░░ 80%
+- **JavaScript** - ████████████ 90%
+- **HTML/CSS** - ████████████ 95%
+- **Tailwind CSS** - ██████████░░ 85%
+
+### Backend
+- **Node.js** - █████████░░░ 75%
+- **Supabase** - ██████████░░ 80%
+- **Serverless Functions** - ████████░░░░ 70%
+
+### Tools & Others
+- **Git** - ███████████░ 85%
+- **UI/UX Design** - █████████░░░ 75%
+- **Testing (Jest)** - ████████░░░░ 70%
+
+---
 ## 📂 Featured Repositories
 
 Check out some of my favorite projects:
@@ -92,6 +112,14 @@ Got a resource or tip? Drop it my way!
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaylie3&theme=default)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jaylie3&theme=flat&no-frame=true)
+
+<!--START_SECTION:waka-->
+
+![WakaTime](https://wakatime.com/badge/user/018c9b9a-0c6b-4c3a-9c5e-5e8f6d7a8b9c.svg)
+
+**📊 Weekly Coding Time**
+
+<!--END_SECTION:waka-->
 
 ---
 
