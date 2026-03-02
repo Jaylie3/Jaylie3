@@ -72,6 +72,12 @@ Got a resource or tip? Drop it my way!
 
 ![Jaylie3's GitHub stats](https://camo.githubusercontent.com/6e5d96fa7c60d75a500573feb7ed5ba6bea6e1fb7775460d2fb80fa0df6eade8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a61796c6965332673686f775f69636f6e733d74727565267468656d653d64656661756c74)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jaylie3&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaylie3&layout=compact&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jaylie3&color=blue&style=flat-square)
+
 ---
 
 ## 💡 Get Involved
